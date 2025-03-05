@@ -1,3 +1,14 @@
+Metadata-Version: 2.2
+Name: image-processing-package
+Version: 0.0.1
+Summary: Package to process images
+Author: Marcus Vinicius Werhli
+Description-Content-Type: text/markdown
+Dynamic: author
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: summary
+
 # package_name
 
 Description. 
